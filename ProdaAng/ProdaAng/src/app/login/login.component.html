@@ -1,0 +1,101 @@
+<br>
+<br>
+
+<!--<div class="outer">
+  <div class="container">
+    <div class="row">
+      <div class="offest-md-2 col-lg-5 col-md-7 offest-lg-4 offest-md-3">
+        <div class="panel border bg-white">
+          <div class="panel-heading">
+            <h3 class="pt-3 font-whight-bold">login</h3>
+          </div>
+            <div class="panel-body pt-3" id="y">
+              <form [formGroup]="loginform" >
+
+
+                <div class="form-group pt-3" [class.error]="loginform.controls['email'].dirty && loginform.hasError('required','email')">
+                  <div class="input-field">
+                    <span class="fa fa-lock p-2"></span>
+                    <input formControlName="email" type="email" placeholder="email">
+                  </div>
+                  <small *ngIf= "loginform.controls['email'].dirty && loginform.hasError('required','email')" class="text-danger">*email is required</small>
+
+
+                </div>
+
+
+
+                <div class="form-group pt-3" [class.error]="loginform.controls['password'].dirty && loginform.hasError('required','password')">
+                  <div class="input-field">
+                    <span class="fa fa-lock p-2"></span>
+                    <input formControlName="password" type="password" placeholder="password">
+                  </div>
+                  <small *ngIf= "loginform.controls['password'].dirty && loginform.hasError('required','password')" class="text-danger">*password is required</small>
+
+
+                </div>
+                <button type="submit" (click)="onlogin()" class=" btn btn-primary btn-block mt-4 w-100">login</button>
+                <div class="text-center pt-4 text-muted">don't have accont?<a id="forget" routerLink="/register">register</a> </div>
+              </form>
+            </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>-->
+
+
+
+
+
+<section class="vh-100 gradient-custom">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+        <div class="card bg-dark text-white" style="border-radius: 1rem;">
+          <div class="card-body p-5 text-center">
+
+            <div class="mb-md-5 mt-md-4 pb-5">
+
+
+              <h2 class="fw-bold mb-2 text-uppercase">Login</h2>
+              <p class="text-white-50 mb-5">Please Enter your Email and Password!</p>
+
+              <form [formGroup]="loginform" >
+              <div class="form-outline form-white mb-4">
+                <!-- <label class="form-label" for="typeEmailX">Email</label> -->
+                <input type="email" id="typeEmailX"[class.is-invalid]="email?.invalid&&email?.touched" class="form-control form-control-lg" formControlName="email" type="email" placeholder="email" />
+
+                <small *ngIf= "loginform.controls['email'].dirty && loginform.hasError('required','email')" class="text-danger">*email is required</small>
+
+              </div>
+
+              <div class="form-outline form-white mb-4">
+                <input type="password" id="typePasswordX"[class.is-invalid]="password?.invalid&&password?.touched" class="form-control form-control-lg" formControlName="password" type="password" placeholder="password" />
+                <!-- <label class="form-label" for="typePasswordX">Password</label> -->
+                <small *ngIf= "loginform.controls['password'].dirty && loginform.hasError('required','password')" class="text-danger">*password is required</small>
+
+              </div>
+
+              <button (click)="onlogin()" class="btn btn-outline-light btn-lg px-5" type="submit">Login</button>
+
+            </form>
+
+            </div>
+
+            <div>
+              <p class="mb-0">Don't have an account? <a href="/register" class="text-white-50 fw-bold">Sign Up</a>
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

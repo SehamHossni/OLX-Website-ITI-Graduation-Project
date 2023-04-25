@@ -1,0 +1,75 @@
+F:\projects for back end\Web Api Talabat\Talabat\BLL\bin\Debug\net7.0\BLL.deps.json
+F:\projects for back end\Web Api Talabat\Talabat\BLL\bin\Debug\net7.0\BLL.dll
+F:\projects for back end\Web Api Talabat\Talabat\BLL\bin\Debug\net7.0\BLL.pdb
+F:\projects for back end\Web Api Talabat\Talabat\BLL\bin\Debug\net7.0\DAL.dll
+F:\projects for back end\Web Api Talabat\Talabat\BLL\bin\Debug\net7.0\DAL.pdb
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\BLL.dll
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\refint\BLL.dll
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\BLL.pdb
+F:\projects for back end\Web Api Talabat\Talabat\BLL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\DELL\Documents\Talabat\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\DELL\Documents\Talabat\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\DELL\Documents\Talabat\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\DELL\Documents\Talabat\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\DELL\Documents\Talabat\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\DELL\Documents\Talabat\BLL\obj\Debug\net7.0\ref\BLL.dll
+E:\ITIBigOne\Seham2\Talabat\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\ITIBigOne\Seham2\Talabat\BLL\bin\Debug\net7.0\BLL.dll
+E:\ITIBigOne\Seham2\Talabat\BLL\bin\Debug\net7.0\BLL.pdb
+E:\ITIBigOne\Seham2\Talabat\BLL\bin\Debug\net7.0\DAL.dll
+E:\ITIBigOne\Seham2\Talabat\BLL\bin\Debug\net7.0\DAL.pdb
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\BLL.dll
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\BLL.pdb
+E:\ITIBigOne\Seham2\Talabat\BLL\obj\Debug\net7.0\ref\BLL.dll
+E:\ITIBigOne\Final Project\Talabat\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\ITIBigOne\Final Project\Talabat\BLL\bin\Debug\net7.0\BLL.dll
+E:\ITIBigOne\Final Project\Talabat\BLL\bin\Debug\net7.0\BLL.pdb
+E:\ITIBigOne\Final Project\Talabat\BLL\bin\Debug\net7.0\DAL.dll
+E:\ITIBigOne\Final Project\Talabat\BLL\bin\Debug\net7.0\DAL.pdb
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\BLL.dll
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\BLL.pdb
+E:\ITIBigOne\Final Project\Talabat\BLL\obj\Debug\net7.0\ref\BLL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\bin\Debug\net7.0\BLL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\bin\Debug\net7.0\BLL.pdb
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\bin\Debug\net7.0\DAL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\bin\Debug\net7.0\DAL.pdb
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\BLL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\BLL.pdb
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\BLL\obj\Debug\net7.0\ref\BLL.dll

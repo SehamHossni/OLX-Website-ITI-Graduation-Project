@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\products\boot-ang1.png" />
+    <None Include="wwwroot\Images\products\boot-ang2.png" />
+    <None Include="wwwroot\Images\products\boot-core1.png" />
+    <None Include="wwwroot\Images\products\boot-core2.png" />
+    <None Include="wwwroot\Images\products\boot-redis1.png" />
+    <None Include="wwwroot\Images\products\glove-code1.png" />
+    <None Include="wwwroot\Images\products\glove-code2.png" />
+    <None Include="wwwroot\Images\products\glove-react1.png" />
+    <None Include="wwwroot\Images\products\glove-react2.png" />
+    <None Include="wwwroot\Images\products\hat-core1.png" />
+    <None Include="wwwroot\Images\products\hat-react1.png" />
+    <None Include="wwwroot\Images\products\hat-react2.png" />
+    <None Include="wwwroot\Images\products\sb-ang1.png" />
+    <None Include="wwwroot\Images\products\sb-ang2.png" />
+    <None Include="wwwroot\Images\products\sb-core1.png" />
+    <None Include="wwwroot\Images\products\sb-core2.png" />
+    <None Include="wwwroot\Images\products\sb-react1.png" />
+    <None Include="wwwroot\Images\products\sb-ts1.png" />
+  </ItemGroup>
+
+</Project>

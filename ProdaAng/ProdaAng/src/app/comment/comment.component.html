@@ -1,0 +1,90 @@
+<br>
+<br>
+<br>
+
+
+<div class="modal-body">
+  <form [formGroup]="form">
+    <div class="row">
+
+      <div class="form-group pt-3" [class.error]="form.controls['id'].dirty && form.hasError('required','id')">
+        <div class="input-field">
+          <span class="fa fa-lock p-2"></span>
+          <input formControlName="id" type="number" placeholder="id">
+        </div>
+        <small *ngIf= "form.controls['id'].dirty && form.hasError('required','id')" class="text-danger">*id is required</small>
+
+        <!-- <div class="form-inline fr mt-4">
+          <a id="forget" class="font-whight-bold">forget password</a>
+        </div> -->
+      </div>
+
+
+
+      <div class="form-group pt-3" [class.error]="form.controls['email'].dirty && form.hasError('required','email')">
+        <div class="input-field">
+          <span class="fa fa-lock p-2"></span>
+          <input formControlName="email" type="text" placeholder="email">
+        </div>
+        <small *ngIf= "form.controls['email'].dirty && form.hasError('required','email')" class="text-danger">*email is required</small>
+
+        <!-- <div class="form-inline fr mt-4">
+          <a id="forget" class="font-whight-bold">forget password</a>
+        </div> -->
+      </div>
+
+
+
+
+      <div class="form-group pt-3" [class.error]="form.controls['content'].dirty && form.hasError('required','content')">
+        <div class="input-field">
+          <span class="fa fa-lock p-2"></span>
+          <input formControlName="content" type="text" placeholder="content">
+        </div>
+        <small *ngIf= "form.controls['content'].dirty && form.hasError('required','content')" class="text-danger">*content is required</small>
+
+        <!-- <div class="form-inline fr mt-4">
+          <a id="forget" class="font-whight-bold">forget password</a>
+        </div> -->
+      </div>
+
+
+      <div class="form-group pt-3" [class.error]="form.controls['productID'].dirty && form.hasError('required','productID')">
+        <div class="input-field">
+          <span class="fa fa-lock p-2"></span>
+          <input formControlName="productID" type="text" placeholder="productID">
+        </div>
+        <small *ngIf= "form.controls['productID'].dirty && form.hasError('required','productID')" class="text-danger">*productID is required</small>
+
+        <!-- <div class="form-inline fr mt-4">
+          <a id="forget" class="font-whight-bold">forget password</a>
+        </div> -->
+      </div>
+
+
+      <!-- <div class="col-md-4 col-sm-12">
+        <label for="">id</label>
+        <input type="number" formArrayName="id"  class="form-control" placeholder="id">
+    </div>
+      <div class="col-md-4 col-sm-12">
+          <label for="">email</label>
+          <input type="text" formArrayName="email"  class="form-control" placeholder="email">
+      </div>
+
+      <div class="col-md-8 col-sm-12">
+        <label for="image">content</label>
+        <textarea  class="form-control" formArrayName="content" placeholder="content ...."></textarea>
+    </div>
+
+
+<div class="col-md-4 col-sm-12">
+<label for="">productID</label>
+<input type="number" formArrayName="productID"  class="form-control" placeholder="productID">
+</div> -->
+
+    </div>
+    <div class="d-flex justify-content-end mt-3">
+        <button class="btn btn-success" (click)="addCOMMENT()">Add comment</button>
+    </div>
+  </form>
+</div>

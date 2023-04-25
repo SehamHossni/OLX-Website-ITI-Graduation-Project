@@ -1,0 +1,110 @@
+[
+  {
+    "Name": "Flat on Diar2 Compownd",
+    "Description": "Flat on Diar2 Compownd 550.000 LE",
+    "Price": 550000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/6e8c7284-2a66-4c6d-b0ce-780ea93aa31d.jpg",
+    "ProductTypeId": 1,
+    "ProductCategoryId": 8
+  },
+  {
+    "Name": "Villa TwinHouse",
+    "Description": "Villa TwinHouse ,Landscape and Lagoons قسط علي 8 سنوات",
+    "Price": 90000000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/ab308bd4-91ac-485f-a288-8ddcab89edfc.jpg",
+    "ProductTypeId": 1,
+    "ProductCategoryId": 8
+  },
+  {
+    "Name": "Villa Stock",
+    "Description": "Villa TwinHouse ,Landscape and Lagoons قسط علي 8 سنوات",
+    "Price": 7600000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/9a4bfb3d-1b0a-419c-9546-627298725750.jpeg",
+    "ProductTypeId": 1,
+    "ProductCategoryId": 8
+  },
+  {
+    "Name": "Redmi note8",
+    "Description": "Redmi note8 128 GB Android 11",
+    "Price": 12000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/786a112f-f36d-468c-986c-89b79c50374b.jpg",
+    "ProductTypeId": 1,
+    "ProductCategoryId": 10
+  },
+  {
+    "Name": "Sammung SA12",
+    "Description": "Redmi note8 128 GB Android 11",
+    "Price": 10000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/5a650569-bc2f-4e3b-9894-32ab4d2efa7b.jpg",
+    "ProductTypeId": 1,
+    "ProductCategoryId": 10
+  },
+  {
+    "Name": "LG Screen",
+    "Description": "Redmi note8 80 inch",
+    "Price": 50000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/b1d02174-8616-476c-b6ff-88ec3e2241fa.jpg",
+    "ProductTypeId": 1,
+    "ProductCategoryId": 10
+  },
+  {
+    "Name": "Diamond Necklace",
+    "Description": "Diamond Necklace with 125 Diamond Lope",
+    "Price": 66000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/25d92300-f226-47d0-8a48-a74181c57866.jpeg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "BMW Car",
+    "Description": "All-new and larger in every dimension than the SUV it replaces, the 2023 BMW X1 wears the brand's new design language well, including a bolder twin-kidney grille.",
+    "Price": 60000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/1d06e97a-76d6-4a3b-b13b-948d90ed0136.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "Lexus Car",
+    "Description": "All-new and larger in every dimension than the SUV it replaces, the 2023 BMW X1 wears the brand's new design language well, including a bolder twin-kidney grille.",
+    "Price": 45000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/54865367-b562-49bb-b828-21e78d47153e.jpeg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "Bernice Sectional Sofa",
+    "Description": "Enjoy this exceptionally comfortable sofa in a stylish design to become an excellent addition to your living room, matching any contemporary or traditional decor. The high-quality fabric is extra sturdy, retaining its look even after prolonged usage.",
+    "Price": 20000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/a553cdd7-ce24-431a-8b77-bd0711bef026.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Mildred Sectional Sofa Bed",
+    "Description": "Enjoy this exceptionally comfortable sofa bed in a stylish design to become an excellent addition to your living room, matching any contemporary or traditional decor. The high-quality fabric is extra sturdy, retaining its look even after prolonged usage",
+    "Price": 36000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/ad4d4d1c-437e-47f2-ac7c-5b0920c523b1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Paloma Table Lamp | Beige Color | Size: Large",
+    "Description": "This modern table lamp will be a wonderful living room decoration, serving well also as a bedside lamp.",
+    "Price": 15000,
+    "publisher": "katreen@gmail.com",
+    "PictureUrl": "Images/products/acb41a46-b44e-405b-9ea7-90923336ab4f.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 11
+  }
+]

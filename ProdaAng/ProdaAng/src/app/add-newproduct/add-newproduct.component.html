@@ -1,0 +1,149 @@
+<br>
+   <!-- <div class="modal-body">
+        <form [formGroup]="form">
+          <div class="row">
+            <div class="form-group pt-3" [class.error]="form.controls['name'].dirty && form.hasError('required','name')">
+              <div class="input-field">
+                <span class="fa fa-lock p-2"></span>
+                <input formControlName="name" type="text" placeholder="name">
+              </div>
+
+            </div>
+            <div class="form-group pt-3" [class.error]="form.controls['description'].dirty && form.hasError('required','description')">
+              <div class="input-field">
+                <span class="fa fa-lock p-2"></span>
+                <input formControlName="description" type="text" placeholder="description">
+              </div>
+            </div>
+
+
+            <div class="form-group pt-3" [class.error]="form.controls['price'].dirty && form.hasError('required','price')">
+              <div class="input-field">
+                <span class="fa fa-lock p-2"></span>
+                <input formControlName="price" type="number" placeholder="price">
+              </div>
+            </div>
+
+            <input type="file" (change)="onFileSelected($event)" />
+        <div class="form-group pt-3" [class.error]="form.controls['pictureUrl'].dirty && form.hasError('required','pictureUrl')">
+          <div class="input-field">
+            <span class="fa fa-lock p-2"></span>
+
+          </div>
+        </div>
+
+
+
+
+
+        <div class="form-group pt-3" [class.error]="form.controls['productCategoryId'].dirty && form.hasError('required','productCategoryId')">
+          <div class="input-field">
+            <span class="fa fa-lock p-2"></span>
+            <select formControlName="productCategoryId">
+              <option value="">Select category</option>
+              <option *ngFor="let item of cats" [value]="item.id">{{ item.name }}</option>
+            </select>
+          </div>
+        </div>
+
+          </div>
+          <div class="d-flex justify-content-end mt-3">
+              <button class="btn btn-success" (click)="addproduct()">Add Product</button>
+          </div>
+        </form>
+    </div>-->
+
+
+
+
+
+
+
+
+
+<section class="vh-100 gradient-custom">
+
+
+  <div class="container d-flex justify-content-center mt-5" style="padding-top: 10px;">
+    <div class="card">
+      <div class="card-header text-center">
+        Add Product
+      </div>
+      <div class="card-body">
+        <form [formGroup]="form">
+          <div class="form-group">
+            <label for="name">Name:</label>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text fa fa-user"></span>
+              </div>
+              <input formControlName="name" type="text" id="name" class="form-control" placeholder="Enter name">
+            </div>
+            <div *ngIf="form.controls['name'].dirty && form.hasError('required','name')" class="text-danger mt-1">
+              Name is required
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="description">Description:</label>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text fa fa-info"></span>
+              </div>
+              <textarea formControlName="description" type="text" id="description" class="form-control" placeholder="Enter description"></textarea>
+            </div>
+            <div *ngIf="form.controls['description'].dirty && form.hasError('required','description')" class="text-danger mt-1">
+              Description is required
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="price">Price:</label>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text fa fa-money"></span>
+              </div>
+              <input formControlName="price" type="number" id="price" (change)="onFileSelected($event)" class="form-control" placeholder="Enter price">
+            </div>
+            <div *ngIf="form.controls['price'].dirty && form.hasError('required','price')" class="text-danger mt-1">
+              Price is required
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="pictureUrl">Picture:</label>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text fa fa-image"></span>
+              </div>
+              <input formControlName="pictureUrl" type="file" id="pictureUrl" (change)="onFileSelected($event)" class="form-control">
+            </div>
+            <div *ngIf="form.controls['pictureUrl'].dirty && form.hasError('required','pictureUrl')" class="text-danger mt-1">
+              Picture is required
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="productCategoryId">Category:</label>
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text fa fa-tags"></span>
+              </div>
+              <select formControlName="productCategoryId" id="productCategoryId" class="form-control">
+                <option value="">Select category</option>
+                <option *ngFor="let item of cats" [value]="item.id">{{ item.name }}</option>
+              </select>
+            </div>
+            <div *ngIf="form.controls['productCategoryId'].dirty && form.hasError('required','productCategoryId')" class="text-danger mt-1">
+              Category is required
+            </div>
+          </div>
+
+          <div class="form-group">
+            <button class="btn btn-success" (click)="addproduct()">Add Product</button>
+          </div>
+          </form>
+          </div>
+    </div>
+  </div>
+</section>

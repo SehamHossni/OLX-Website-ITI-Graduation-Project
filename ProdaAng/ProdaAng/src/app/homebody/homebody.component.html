@@ -1,0 +1,164 @@
+<br>
+<br>
+<br>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img class="d-block w-100" src="../../assets/img/bannern.jpg" alt="First slide">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="../../assets/img/banner2.jpg" alt="Second slide">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="../../assets/img/banner3.jpg" alt="Third slide">
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+</div>
+<!--
+  <h1 style="padding-top: 15px; text-align: center; font-family: cairo;">Our Fresh collections</h1>
+
+   <div class="container">
+    <div class="row">
+      <div *ngFor="let prod of prods" class="col-md-3 mb-4">
+        <div class="card h-100">
+          <a href="/productdetailes/{{prod.id}}">
+          <img class="card-img-top" src="{{prod.pictureUrl}}" alt="Card image cap" width="600px" height="300px">
+        </a>
+          <div class="card-body">
+            <h5 class="card-title">{{prod.name}}</h5>
+            <p class="card-text"><a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+          </div>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item">Price : {{prod.price}}</li>
+            <li class="list-group-item">Vendor : <a href="/sellerInfo/{{prod.publisher}}">{{prod.publisher}}</a> </li>
+          </ul>
+          
+        </div>
+      </div>
+    </div>
+  </div> 
+
+  <div class="container-fluid main-cont">
+    <div class="row news-row">
+        <div class="container-fluid col-md-12 col-sm-6 justify-content-center news-block">
+            <div class="card-group" *ngFor="let prod of prods">
+              <div class="underlay">
+                <div class="card">
+                    <a href="/productdetailes/{{prod.id}}">
+                    <div class="card-img-top"  style="background-image: url('{{prod.pictureUrl}}')"></div>
+                    </a>
+                    <div class="card-block" >
+                    <h5 class="card-title" style="font-family: 'Anton', sans-serif">{{prod.name}}<hr></h5>
+                    <p class="card-text" ><a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+                    <p class="card-text">Price : {{prod.price}}</p>
+                    <p class="card-text">Vendor : <a href="/sellerInfo/{{prod.publisher}}">{{prod.publisher}}</a></p>
+                    </div>
+                </div>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+-->
+
+<!-- 
+<div class="container-fluid main-cont">
+  <div class="row news-row">
+    <div class="container-fluid col-md-12 col-sm-6 justify-content-center news-block">
+      <div class="card-group">
+        <div class="underlay">
+          <div class="card" *ngFor="let prod of prods">
+            <a href="/productdetailes/{{prod.id}}">
+              <img class="card-img-top" src="{{prod.pictureUrl}}" alt="Card image cap" width="600px" height="300px">
+            </a>
+            <div class="card-block" >
+              <h5 class="card-title" style="font-family: 'Anton', sans-serif">{{prod.name}}<hr></h5>
+              <p class="card-text" ><a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+              <p class="card-text">Price : {{prod.price}}</p>
+              <p class="card-text">Vendor : <a href="/sellerInfo/{{prod.publisher}}">{{prod.publisher}}</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+
+<section id="team" class="pb-4">
+
+  <div class="container mt-3">
+    <div class="header">
+      <h1>Our Fresh Collections</h1>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-sm-6 col-md-4" *ngFor="let prod of prods  | paginate: {id: 'listing_pagination', itemsPerPage: 3, currentPage: p, totalItems: totalRecords}">
+        <div class="card-deck" style="height: 600px;">
+          <div class="card">
+            <a href="/productdetailes/{{prod.id}}">
+              <img class="card-img-top" src="{{prod.pictureUrl}}" alt="Card image cap" width="120px" height="150px">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title">{{prod.name}}</h5>
+              <ul class="list-group">
+                <li class="list-group-item list-group-item-success">
+                  <p class="card-text"><strong>Category : </strong> <a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+                </li>
+                <li class="list-group-item list-group-item-success"> 
+                  <p class="card-text"><strong>Price : </strong>{{prod.price}}</p>
+                </li>
+                <li class="list-group-item list-group-item-success">
+                  <p class="card-text"><strong>Vendor : </strong><a href="/sellerInfo/{{prod.publisher}}">{{prod.publisherdispname}}</a></p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- <div class="container">
+      <h5 class="section-title h1"> Our Fresh Collections </h5>
+      <div class="row">
+          <div class="col-sm-12 col-sm-6 col-md-4" *ngFor="let prod of prods">
+              <div class="image-flip" >
+                  <div class="mainflip flip-0">
+                      <div class="frontside">
+                          <div class="card"  >
+                              <div class="card-body text-center fw-bold">
+                                  <img class="image-flip" src="{{prod.pictureUrl}}" alt="Card image cap">
+                                  <h4 class="card-title">{{prod.name}}</h4>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="backside">
+                          <div class="card">
+                              <div class="card-body text-center mt-4">
+                                <a href="/productdetailes/{{prod.id}}">
+                                  <h4 class="card-title">{{prod.name}}</h4>
+                                </a>
+                                <p class="card-text"><strong>Category : </strong> <a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+                                <p class="card-text"><strong>Price : </strong>{{prod.price}}</p>
+                                <p class="card-text"><strong>Vendor : </strong><a href="/sellerInfo/{{prod.publisher}}">{{prod.publisher}}</a></p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div> -->
+  <div class="pagination-controls">
+    <pagination-controls id = "listing_pagination" (pageChange) = "p = $event"></pagination-controls>
+  </div>
+</section>

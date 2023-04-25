@@ -1,0 +1,38 @@
+<main class="content">
+    <div class="container p-0">
+
+		<h1 class="h3 mb-3">Messages</h1>
+
+		<div class="card">
+			<div class="row g-0">
+				<div class="col-12 col-lg-5 col-xl-3 border-right">
+
+					<div class="px-4 d-none d-md-block">
+						<div class="d-flex align-items-center">
+							<div class="flex-grow-1">
+								<input type="text" class="form-control my-3" placeholder="Search...">
+							</div>
+						</div>
+					</div>
+
+					<a href="/chat/userid/{{item.id}}" class="list-group-item list-group-item-action border-0" *ngFor="let item of chats">
+						<div class="d-flex align-items-start">
+							<img src="../../assets/img/avatar.jpg" class="rounded-circle mr-1" alt="{{item.name}}" width="40" height="40">
+							<div class="flex-grow-1 ml-3">
+								{{item.name}}
+								<!--<div class="small" *ngIf="item.isOnline==true"><span class="fas fa-circle chat-online"></span> Online</div>
+                                <div class="small" *ngIf="item.isOnline==false"><span class="fas fa-circle chat-offline"></span> Offline</div>-->
+							</div>
+						</div>
+					</a>
+					
+
+					<hr class="d-block d-lg-none mt-1 mb-0">
+				</div>
+				<div class="col-12 col-lg-7 col-xl-9" style="height: 1000px;">
+				<!--Here lies the component of privte chats-->
+			</div>
+			</div>
+		</div>
+	</div>
+</main>

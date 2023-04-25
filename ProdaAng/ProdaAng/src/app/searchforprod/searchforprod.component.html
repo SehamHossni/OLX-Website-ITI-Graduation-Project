@@ -1,0 +1,70 @@
+<br>
+<br>
+<br>
+
+<section id="team" class="pb-4">
+  <!-- <h2>Here is the products that matches your search {{searcha}}</h2> -->
+
+  <div class="container mt-3">
+    <div class="header">
+      <h1>Here is the products that matches your search {{searcha}}</h1>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-sm-6 col-md-4" *ngFor="let prod of prods">
+        <div class="card-deck" style="height: 600px;">
+          <div class="card">
+            <a href="/productdetailes/{{prod.id}}">
+              <img class="card-img-top" src="{{prod.pictureUrl}}" alt="Card image cap">
+            </a>
+            <div class="card-body">
+              <h5 class="card-title">{{prod.name}}</h5>
+              <ul class="list-group">
+                <li class="list-group-item list-group-item-success">
+                  <p class="card-text"><strong>Category : </strong> <a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+                </li>
+                <li class="list-group-item list-group-item-success"> 
+                  <p class="card-text"><strong>Price : </strong>{{prod.price}}</p>
+                </li>
+                <li class="list-group-item list-group-item-success">
+                  <p class="card-text"><strong>Vendor : </strong><a href="/sellerInfo/{{prod.publisher}}">{{prod.publisherdispname}}</a></p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="container">
+      <div class="row">
+          <div class="col-sm-12 col-sm-6 col-md-4" *ngFor="let prod of prods">
+              <div class="image-flip" >
+                  <div class="mainflip flip-0">
+                      <div class="frontside">
+                          <div class="card"  >
+                              <div class="card-body text-center fw-bold">
+                                  <img class="image-flip" src="{{prod.pictureUrl}}" alt="Card image cap">
+                                  <h4 class="card-title">{{prod.name}}</h4>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="backside">
+                          <div class="card">
+                              <div class="card-body text-center mt-4">
+                                  <a href="/productdetailes/{{prod.id}}">
+                                    <h4 class="card-title">{{prod.name}}</h4>
+                                  </a>
+                                  <p class="card-text"><strong>Category : </strong> <a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+                                  <p class="card-text"><strong>Price : </strong>{{prod.price}}</p>
+                                  <p class="card-text"><strong>Vendor : </strong><a href="/sellerInfo/{{prod.publisher}}">{{prod.publisher}}</a></p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div> -->
+</section>
+
+  

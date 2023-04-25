@@ -1,0 +1,182 @@
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\appsettings.Development.json
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\appsettings.json
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.exe
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.deps.json
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.runtimeconfig.json
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.pdb
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Azure.Core.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Humanizer.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Owin.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Owin.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.csproj.AssemblyReference.cache
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.AssemblyInfoInputs.cache
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.AssemblyInfo.cs
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.csproj.CoreCompileInputs.cache
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.MvcApplicationPartsAssemblyInfo.cs
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.MvcApplicationPartsAssemblyInfo.cache
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets\msbuild.Chatapp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets\msbuild.build.Chatapp.props
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Chatapp.props
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Chatapp.props
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\scopedcss\bundle\Chatapp.styles.css
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.csproj.CopyComplete
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\refint\Chatapp.dll
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.pdb
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.genruntimeconfig.cache
+E:\ITIBigOne\Chat App me\Chatapp\Chatapp\obj\Debug\net7.0\ref\Chatapp.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\appsettings.Development.json
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\appsettings.json
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.exe
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.deps.json
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.runtimeconfig.json
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Chatapp.pdb
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Azure.Core.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Azure.Identity.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Humanizer.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Owin.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Owin.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.CodeDom.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.csproj.AssemblyReference.cache
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.AssemblyInfoInputs.cache
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.AssemblyInfo.cs
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.csproj.CoreCompileInputs.cache
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.MvcApplicationPartsAssemblyInfo.cs
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.MvcApplicationPartsAssemblyInfo.cache
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets\msbuild.Chatapp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets\msbuild.build.Chatapp.props
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Chatapp.props
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Chatapp.props
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets.build.json
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\staticwebassets.development.json
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\scopedcss\bundle\Chatapp.styles.css
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.csproj.CopyComplete
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\refint\Chatapp.dll
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.pdb
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\Chatapp.genruntimeconfig.cache
+E:\Angular\Graduation Project\Chatapp(BefoVal)\Chatapp\Chatapp\obj\Debug\net7.0\ref\Chatapp.dll

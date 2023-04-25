@@ -1,0 +1,112 @@
+#team {
+    background: #dfdddd !important;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.header {
+    text-align: center;
+    color: #06707c;
+    margin: 6rem 0 3rem 0;
+}
+
+#main{
+    margin-left: 25%;
+}
+
+#divuser{
+   background: #dfdddd;
+    //border: none;
+    height: 40vh;
+}
+
+#imguser{
+    width: 80%;
+    max-width: 100%;
+    height: 30vh;
+    margin-left: 1.1rem;
+}
+
+#btncopyprofile{
+    margin-top: 1.1rem;
+
+}
+
+// .list-unstyled{
+//     margin: 1rem;
+//     //text-align: center;
+// }
+
+.card{
+    margin: 1.5rem;
+}
+
+.card-body a {
+    //font-size: 1.7rem;
+    color: #0e0e0e !important;
+    text-decoration: none;
+}
+  
+.card img {
+    width: 100%;
+    max-width: 100%;
+    height: 40vh;
+}
+
+.card-title {
+    font-weight:bold;
+    text-align: center;
+    margin-top: 0.2rem;
+    color: #000000 !important;
+    font-size: 1.5rem;
+}
+
+.card-text {
+    text-align: justify;
+    font-size: 1.2rem;
+    color: #000000;
+    //margin: 0rem;
+}
+  
+
+#left-panel-link {
+    position: relative;
+    width: 7vw;
+    left: 20%;
+    font-size: 1.5vw;
+    //padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 25%;
+}
+
+#right-panel-link {
+    position: absolute;
+    width: 7vw;
+    right: 20%;
+    font-size: 1.5vw;
+    //padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 25%;
+}
+
+
+  /* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+    .column {
+      flex: 46%;
+      max-width: 46%;
+    }
+}
+
+.card{
+    margin: 1.5rem;
+    height: 90vh;
+}
+
+.list-group{
+    margin-top:1.7rem;
+}

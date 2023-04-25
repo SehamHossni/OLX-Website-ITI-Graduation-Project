@@ -1,0 +1,60 @@
+F:\projects for back end\Web Api Talabat\Talabat\DAL\bin\Debug\net7.0\DAL.deps.json
+F:\projects for back end\Web Api Talabat\Talabat\DAL\bin\Debug\net7.0\DAL.dll
+F:\projects for back end\Web Api Talabat\Talabat\DAL\bin\Debug\net7.0\DAL.pdb
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\DAL.dll
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\refint\DAL.dll
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\DAL.pdb
+F:\projects for back end\Web Api Talabat\Talabat\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\DELL\Documents\Talabat\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\DELL\Documents\Talabat\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\DELL\Documents\Talabat\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\DELL\Documents\Talabat\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\ITIBigOne\Seham2\Talabat\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\ITIBigOne\Seham2\Talabat\DAL\bin\Debug\net7.0\DAL.dll
+E:\ITIBigOne\Seham2\Talabat\DAL\bin\Debug\net7.0\DAL.pdb
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\DAL.dll
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\DAL.pdb
+E:\ITIBigOne\Seham2\Talabat\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\ITIBigOne\Final Project\Talabat\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\ITIBigOne\Final Project\Talabat\DAL\bin\Debug\net7.0\DAL.dll
+E:\ITIBigOne\Final Project\Talabat\DAL\bin\Debug\net7.0\DAL.pdb
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\DAL.dll
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\DAL.pdb
+E:\ITIBigOne\Final Project\Talabat\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\bin\Debug\net7.0\DAL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\bin\Debug\net7.0\DAL.pdb
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\DAL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\DAL.pdb
+E:\Angular\Graduation Project\Talabat(BefoVal)\Talabat\DAL\obj\Debug\net7.0\ref\DAL.dll

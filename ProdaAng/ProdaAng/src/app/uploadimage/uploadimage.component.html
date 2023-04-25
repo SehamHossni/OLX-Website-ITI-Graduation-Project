@@ -1,0 +1,26 @@
+<section class="vh-100 gradient-custom">
+
+
+    <div class="container d-flex justify-content-center mt-5" style="padding-top: 10px;">
+      <div class="card">
+        <div class="card-header text-center">
+          Upload product photos
+        </div>
+        <div class="card-body">
+            <div class="form-group">
+              <label for="pictureUrl">Picture:</label>
+              <div class="input-group">
+                <div class="input-group-prepend">
+                  <span class="input-group-text fa fa-image"></span>
+                </div>
+                <input type="file" id="pictureUrl" (change)="onFileSelected($event)" class="form-control">
+              </div>
+            </div>
+            <div class="form-group">
+            
+              <a href="/productdetailes/{{prodid}}" class="btn btn-success">Go to product image</a>
+            </div>
+            </div>
+      </div>
+    </div>
+</section>

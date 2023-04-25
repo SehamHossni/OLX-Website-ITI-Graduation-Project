@@ -1,0 +1,197 @@
+
+
+<!--
+  <br>
+<br>
+<br>
+<br>
+<div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="text-center mb-4">
+          <img src="../../assets/img/avatar.jpg" class="rounded-circle" alt="Profile Picture">
+          <h4 class="mt-3">{{vendor.shownName}}</h4>
+        </div>
+        <ul class="list-unstyled">
+          <li><strong>Email:</strong> {{vendor.email}}</li>
+          <li><strong>Phone:</strong> {{vendor.phone}}</li>
+          <li><button (click)="copyPage()"  class="btn btn-warning text-white">Copy Profile link</button></li>
+        </ul>
+      </div>
+
+      <h1 style="padding-top: 15px; text-align: center; font-family: cairo;">Products by this user</h1>
+
+  <div class="container">
+    <div class="row">
+      <div *ngFor="let prod of prods" class="col-md-3 mb-4">
+        <div class="card h-100">
+          <a href="/productdetailes/{{prod.id}}">
+          <img class="card-img-top" src="{{prod.pictureUrl}}" alt="Card image cap" width="600px" height="300px">
+        </a>
+          <div class="card-body">
+            <h5 class="card-title">{{prod.name}}</h5>
+            <p class="card-text"><a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+          </div>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item">Price : {{prod.price}}</li>
+            <li class="list-group-item">Vendor : <a href="/sellerInfo/{{prod.publisher}}">{{prod.publisher}}</a> </li>
+          </ul>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+
+    </div>
+  </div>-->
+
+
+
+
+
+
+
+  <br>
+  <br>
+  <br>
+  <!-- class="rounded-circle" -->
+  <section id="team" class="pb-4">
+  
+    <div class="col-md-6" id="main">
+      <div class="card mb-3" id="divuser">
+        <div class="row no-gutters align-items-center">
+          <div class="col-md-4">
+            <img src="../../assets/img/avatar.jpg" class="rounded-circle" alt="Profile Picture" id="imguser">
+          </div>
+          <div class="col-sm-8">
+            <div class="card-body">
+              <h5 class="card-title" style="text-align: left;">{{vendor.shownName}}</h5>
+              <p class="card-text"><strong>Email: </strong> {{vendor.email}}</p>
+              <p class="card-text"><strong>Phone: </strong> {{vendor.phone}}</p>
+              <button (click)="copyPage()"  class="btn btn-success text-white" id="btncopyprofile">Copy Profile link</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <!-- <div class="col-md-4" id="div1">
+      <div class="text-center mb-4">
+        <img src="../../assets/img/avatar.jpg" class="rounded-circle" class="card-img" alt="Profile Picture">
+        <h4 class="mt-3">{{vendor.shownName}}</h4>
+      </div>
+      <ul class="list-unstyled">
+        <li><strong>Email:</strong> {{vendor.email}}</li>
+        <li><strong>Phone:</strong> {{vendor.phone}}</li>
+        <li><button (click)="copyPage()"  class="btn btn-warning text-white">Copy Profile link</button></li>
+      </ul>
+    </div> -->
+  
+    <div class="container mt-3">
+      <div class="header">
+        <h1>Products by vendor</h1>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 col-sm-6 col-md-4" *ngFor="let prod of prods">
+          <div class="card-deck" style="height: 600px;">
+            <div class="card">
+              <a href="/productdetailes/{{prod.id}}">
+                <img class="card-img-top" src="{{prod.pictureUrl}}" alt="Card image cap">
+              </a>
+              <div class="card-body">
+                <h5 class="card-title">{{prod.name}}</h5>
+                <ul class="list-group">
+                  <li class="list-group-item list-group-item-success">
+                    <p class="card-text"><strong>Category : </strong> <a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+                  </li>
+                  <li class="list-group-item list-group-item-success"> 
+                    <p class="card-text"><strong>Price : </strong>{{prod.price}}</p>
+                  </li>
+                  <li class="list-group-item list-group-item-success">
+                    <p class="card-text"><strong>Vendor : </strong><a href="/sellerInfo/{{prod.publisher}}">{{prod.publisherdispname}}</a></p>
+                  </li>
+                </ul>
+              </div>
+              
+            </div>
+          </div>
+          <div class="sep"></div>
+        </div>
+      </div>
+    </div>
+  
+  </section>
+  
+  
+  
+    <!-- <div class="container mt-3">
+      <h5 class="section-title h1"> Products by You </h5>
+      <div class="row">
+        <div class="col-sm-12 col-sm-6 col-md-4" *ngFor="let prod of prods">
+          <div class="card">
+            <a href="/productdetailes/{{prod.id}}">
+              <img class="card-img-top" src="{{prod.pictureUrl}}" alt="Card image cap">
+            </a>
+            <div class="card-body">
+              <h4 class="card-title">{{prod.name}}</h4>
+              <div>
+                <p class="card-text"><strong>Category : </strong> <a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+                <p class="card-text"><strong>Price : </strong>{{prod.price}}</p>
+                <p class="card-text"><strong>Vendor : </strong><a href="/sellerInfo/{{prod.publisher}}">{{prod.publisher}}</a></p>
+              </div>
+              <div>
+                <a href="/productdetailes/{{prod.id}}" class="card-link" class="btn btn-success btn-md">View</a>
+                <a href="/updateproduct/{{prod.id}}" class="card-link" class="btn btn-warning btn-md">Update</a>
+                <a href="#" class="card-link" class="btn btn-danger btn-md" (click)="onDeleteItem(prod.id)">Delete</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  </section> -->
+  
+  <!-- <div class="container">
+      <div class="row">
+        <div *ngFor="let prod of prods" class="col-md-3 mb-4">
+          <div class="card h-100">
+            <a href="/productdetailes/{{prod.id}}">
+            <img class="card-img-top" src="{{prod.pictureUrl}}" alt="Card image cap" width="600px" height="300px">
+          </a>
+            <div class="card-body">
+              <h5 class="card-title">{{prod.name}}</h5>
+              <p class="card-text"><a href="/catigory/{{prod.productCategoryId}}">{{prod.productCategory}}</a></p>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Price : {{prod.price}}</li>
+              <li class="list-group-item">Vendor : <a href="/sellerInfo/{{prod.publisher}}">{{prod.publisher}}</a> </li>
+            </ul>
+            <div class="card-body">
+              <a href="/productdetailes/{{prod.id}}" class="card-link" class="btn btn-success btn-sm">View</a>
+              <a href="/updateproduct/{{prod.id}}" class="card-link" class="btn btn-warning btn-sm">Update</a>
+              <a href="#" class="card-link" class="btn btn-danger btn-sm" (click)="onDeleteItem(prod.id)">Delete</a>
+              
+                                  <div class="card-body text-center mt-4">
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> 
+  
+    
+  
+  
+      </div>
+    </div> -->
+  
+   
+  <!-- 
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> -->
+

@@ -1,0 +1,52 @@
+<nav class="navbar navbar-dark navbar-expand-lg fixed-top navbar-scroll bg-dark" id="mainNav">
+
+    <div class="container">
+        <a href="/home">
+        <img src="assets/img/Website.png" width="143" height="41">
+        </a>
+        <button data-bs-toggle="collapse" data-bs-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars"></i></button>
+        
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            
+            <a class="btn btn-outline-warning ms-auto text-warning" href="/addnewproduct" role="button">Sell Now!</a>
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+              
+              <li class="nav-item">
+                <a class="nav-link" href="#">Home</a>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                   Categories
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="/catigory/{{cat.id}}" *ngFor="let cat of cats">{{cat.name}}</a></li>
+                </ul>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" *ngIf="token == null">
+                  Account
+                </a>
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" *ngIf="token != null">
+                  {{user.displayName}}
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="/Myaccount" *ngIf="token != null">My Account</a></li>
+                  <li><a class="dropdown-item" href="/chats" *ngIf="token != null">Chats</a></li>
+                  <li><a class="dropdown-item" (click)="logout()" *ngIf="token != null">Logout</a></li>
+                  <li><a class="dropdown-item" href="/login" *ngIf="token == null">Login or Register</a></li>
+                </ul>
+              </li>
+
+              <form class="d-flex">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" #myInput>
+                <button class="btn btn-outline-warning" type="submit" (click)="onEnter(myInput.value)">Search</button>
+              </form>
+            </ul>
+
+            
+        </div>
+        
+    </div>
+</nav>
